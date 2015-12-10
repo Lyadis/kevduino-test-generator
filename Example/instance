@@ -1,0 +1,2 @@
+add node938 : eu.heads.ArduinoNodeadd node938.comp772 : eu.heads.ArduinoDigitalInputadd chan727, chan883 :eu.heads.ArduinoChannelbind node938.comp772.off chan727bind node938.comp772.on chan883
+
