@@ -2,7 +2,8 @@
 Smal generator supposed to generate an arduino sketch returning when asked a kev model and an instance graph.
 
 ##Usage 
-go to the GrosseString folder 
+go to the GrosseString folder and run
+
 `mvn clean package exec:java -Dexec.mainClass=com.mycompany.grossestring.GrosseString -Dexec.args="modelFile instanceFile outputDir"`
 `
 
